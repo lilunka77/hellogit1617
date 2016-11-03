@@ -15,4 +15,14 @@
         <group>Teacher</group>
     </student>
 </students>
+<students>
+    <student>
+        <firstname>Alicja</firstname>
+        <lastname>Lada</lastname>
+        <email>alicja77mateusz@gmail.com</email>
+        <github>lilunka77</github>
+        <group>student</group>
+    </student>
+</students>
+
 
